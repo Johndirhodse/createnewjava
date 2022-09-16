@@ -6,7 +6,7 @@ public class module {
 		// TODO Auto-generated method stub
 		int num=320;
 		int a,b,c,d;
-		a=num/10/;
+		a=num/10;
 		b=num%10;
 		c=a/10;
 		d=a%10;

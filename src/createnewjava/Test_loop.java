@@ -38,10 +38,10 @@ public class Test_loop {
 }
 }*/
 		int i=0;
-		for(i=0;i<=20;i+=2)
-		{if );
+		for(i=0;i<=20;i+=2) {
+		
 			System.out.println(-i);
 		}
-	}}
-		
+	}
+}
 		
