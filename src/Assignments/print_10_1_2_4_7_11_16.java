@@ -1,13 +1,18 @@
 package Assignments;
 
-public class Print_1_12345 {
+public class print_10_1_2_4_7_11_16 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		for(int i=1;i<=5;i++)
+int i=1,j=0;
+while(i<=16)
 {
-	System.out.print(i);
+	
+	System.out.println(i);
+	j++;
+	i=i+j;
 }
+
 	}
 
 }

@@ -1,12 +1,14 @@
 package Assignments;
 
-public class Print_3_246810_ {
+public class reverse_a_number_24 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-for(int i=2;i<=10;i+=2) {
-	System.out.print(i);
-}
+		int n=10;
+		while(n>0) {
+		System.out.println(n);
+		n--;
+		}
 	}
-}
 
+}
